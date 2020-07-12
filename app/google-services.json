@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "221491175607",
+    "firebase_url": "https://face-smile.firebaseio.com",
+    "project_id": "face-smile",
+    "storage_bucket": "face-smile.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:221491175607:android:732c3c7d4f2474309f2d32",
+        "android_client_info": {
+          "package_name": "com.example.cameraproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "221491175607-9e3ugk1nirevl74vad1bnh5sqbdbku7p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAy6l_abjxWY-ABdyKb-rISrYJnZAa_iLM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "221491175607-9e3ugk1nirevl74vad1bnh5sqbdbku7p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
